@@ -1,4 +1,11 @@
-### Tech Stack
+
+
+### goals
+<div>
+1일 1커밋
+백준 골드 달성하기겡
+
+### Learning
 
 #### Languages
 <div>
