@@ -1,5 +1,3 @@
-
-
 ### goals
 <div>
 1일 1커밋
@@ -7,6 +5,7 @@
 <div>
 백준 골드 달성하기
 <div>
+  
 ### Learning
 
 #### Languages
