@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-####L Languages
+#### Languages
 <div>
 Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
