@@ -1,13 +1,17 @@
-### goals
+### goals for 2022
 <div>
 1일 1커밋
 <div>
 <div>
-백준 골드 달성하기
+백준 실버1 달성하기
 <div>
-  
+
 ### Learning
 
+#### Books
+Effective C++
+Do it! C언어 입문
+Do it! 자료구조와 함께 배우는 알고리즘 입문(C 언어 편)
 #### Languages
 <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
