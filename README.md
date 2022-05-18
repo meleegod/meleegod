@@ -9,9 +9,15 @@
 ### Learning
 
 #### Books
+<div>
 Effective C++
+<div>
+<div>
 Do it! C언어 입문
+<div>
+<div>
 Do it! 자료구조와 함께 배우는 알고리즘 입문(C 언어 편)
+<div>
 #### Languages
 <div>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
